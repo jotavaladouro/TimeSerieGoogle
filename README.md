@@ -4,6 +4,7 @@ Develop an RNN that predict the Google stock price time series. We use Keras to 
 ### Create env
 conda env create -f environment.yml
 ### Activate env
+
 source activate beiras-rnn
 ### Lanch notebook
 jupyter notebook
